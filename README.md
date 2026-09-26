@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**antiXgod/antiXgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# 💫 About Me:
 🎓 B.Tech in Electrical Engineering
 
 💻 Interested in C, C++, Python & Programming
@@ -20,8 +17,6 @@ Here are some ideas to get you started:
 
 🏏 In my free time, I enjoy playing cricket and improving my communication skills B
 -->
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
