@@ -4,15 +4,21 @@
 **antiXgod/antiXgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+🎓 B.Tech in Electrical Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Interested in C, C++, Python & Programming
+
+⚡ Passionate about Electrical & Electronics Engineering
+
+🤖 Exploring Artificial Intelligence and Machine Learning
+
+🔧 Interested in Arduino, Embedded Systems & Automation
+
+🌱 Currently improving my DSA, programming and engineering skills
+
+🛠️ Interested in building real-world engineering projects
+
+🏏 In my free time, I enjoy playing cricket and improving my communication skills B
 -->
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
